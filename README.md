@@ -1,6 +1,6 @@
-# mongoose-datatables
+# mongoose-datatables fixing deprecated count function
 
-Server side table request.
+Server side table request. fixing deprecated count function
 
 [![Build Status](https://travis-ci.org/archr/mongoose-datatables.svg)](https://travis-ci.org/archr/mongoose-datatables)
 
